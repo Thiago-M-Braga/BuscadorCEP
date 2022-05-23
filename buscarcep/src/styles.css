@@ -73,11 +73,13 @@
 }
 
 .main h2 {
+    color:rgb(255, 255, 255);
     margin: 16px 0;
     font-size: 39px;
 }
 
 .main span {
+    color:rgb(182, 182, 182);
     margin-bottom: 16px;
     font-weight: bold;
 }
